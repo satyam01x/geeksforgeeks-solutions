@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Majority_Element_-_More_Than_n/3": true
+    "GeeksForGeeks_Majority_Element_-_More_Than_n/3": true,
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
   },
   "activityHistory": {
-    "2026-09-24": 1
+    "2026-09-24": 2
   },
   "todayProblems": [
-    "Majority Element - More Than n/3"
+    "Majority Element - More Than n/3",
+    "Smallest Index With Digit Sum Equal to Index"
   ]
 }
