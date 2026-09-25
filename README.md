@@ -5,3 +5,4 @@
 | 3 | [Two Arrays Permutation Check](./GeeksForGeeks/Easy/Two%20Arrays%20Permutation%20Check) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&category=Arrays&difficulty=Basic,Easy&sortBy=submissions) | Easy | 25 Sept 2026 | 12:05 pm |
 | 4 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 25 Sept 2026 | 12:15 pm |
 | 5 | [Majority Element](./GeeksForGeeks/Medium/Majority%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | Medium | 25 Sept 2026 | 03:42 pm |
+| 6 | [Monotonic Array](./LeetCode/Easy/Monotonic%20Array) | [LeetCode](https://leetcode.com/problems/monotonic-array/) | Easy | 25 Sept 2026 | 08:54 pm |
