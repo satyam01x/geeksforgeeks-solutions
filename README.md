@@ -7,3 +7,4 @@
 | 5 | [Majority Element](./GeeksForGeeks/Medium/Majority%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | Medium | 25 Sept 2026 | 03:42 pm |
 | 6 | [Monotonic Array](./LeetCode/Easy/Monotonic%20Array) | [LeetCode](https://leetcode.com/problems/monotonic-array/) | Easy | 25 Sept 2026 | 08:54 pm |
 | 7 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 26 Sept 2026 | 07:38 pm |
+| 8 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 26 Sept 2026 | 07:45 pm |
