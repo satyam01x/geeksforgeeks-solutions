@@ -9,3 +9,4 @@
 | 7 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 26 Sept 2026 | 07:38 pm |
 | 8 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 26 Sept 2026 | 07:45 pm |
 | 9 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 27 Sept 2026 | 10:22 pm |
+| 10 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | 28 Sept 2026 | 11:49 am |
