@@ -11,3 +11,4 @@
 | 9 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 27 Sept 2026 | 10:22 pm |
 | 10 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | 28 Sept 2026 | 11:49 am |
 | 11 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 28 Sept 2026 | 11:52 am |
+| 12 | [Bubble Sort](./GeeksForGeeks/Easy/Bubble%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1) | Easy | 29 Sept 2026 | 02:03 pm |
