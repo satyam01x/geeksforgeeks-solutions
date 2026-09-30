@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 6,
-  "maxStreak": 6,
-  "lastSyncDate": "2026-09-29",
+  "totalSolved": 14,
+  "currentStreak": 7,
+  "maxStreak": 7,
+  "lastSyncDate": "2026-09-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 2
   },
@@ -23,7 +23,8 @@
     "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
     "GeeksForGeeks_Sort_0s,_1s_and_2s": true,
     "LeetCode_Sort_Colors": true,
-    "GeeksForGeeks_Bubble_Sort": true
+    "GeeksForGeeks_Bubble_Sort": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -31,9 +32,10 @@
     "2026-09-26": 3,
     "2026-09-27": 1,
     "2026-09-28": 2,
-    "2026-09-29": 1
+    "2026-09-29": 1,
+    "2026-09-30": 1
   },
   "todayProblems": [
-    "Bubble Sort"
+    "Maximum Subarray"
   ]
 }
