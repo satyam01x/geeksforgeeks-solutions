@@ -15,3 +15,4 @@
 | 13 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 30 Sept 2026 | 11:16 pm |
 | 14 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 01 Oct 2026 | 02:05 pm |
 | 15 | [Two Sum - Pair with Given Sum](./GeeksForGeeks/Easy/Two%20Sum%20-%20Pair%20with%20Given%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/key-pair5616/1) | Easy | 02 Oct 2026 | 10:54 pm |
+| 16 | [Spirally Traversing a Matrix](./GeeksForGeeks/Medium/Spirally%20Traversing%20a%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | Medium | 03 Oct 2026 | 10:12 pm |
