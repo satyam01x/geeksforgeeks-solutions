@@ -18,3 +18,4 @@
 | 16 | [Spirally Traversing a Matrix](./GeeksForGeeks/Medium/Spirally%20Traversing%20a%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | Medium | 03 Oct 2026 | 10:12 pm |
 | 17 | [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) | [LeetCode](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | 03 Oct 2026 | 10:57 pm |
 | 18 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 05 Oct 2026 | 06:07 pm |
+| 19 | [Rotate by 90 degree](./GeeksForGeeks/Medium/Rotate%20by%2090%20degree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | Medium | 05 Oct 2026 | 06:45 pm |
