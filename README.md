@@ -21,3 +21,4 @@
 | 19 | [Rotate by 90 degree](./GeeksForGeeks/Medium/Rotate%20by%2090%20degree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | Medium | 05 Oct 2026 | 06:45 pm |
 | 20 | [Matrix Diagonal Traversal](./GeeksForGeeks/Easy/Matrix%20Diagonal%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-diagonally4331/1) | Easy | 05 Oct 2026 | 08:45 pm |
 | 21 | [Count Words in String](./GeeksForGeeks/Easy/Count%20Words%20in%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) | Easy | 05 Oct 2026 | 09:08 pm |
+| 22 | [Check if the Sentence Is Pangram](./LeetCode/Easy/Check%20if%20the%20Sentence%20Is%20Pangram) | [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | 06 Oct 2026 | 02:50 pm |
