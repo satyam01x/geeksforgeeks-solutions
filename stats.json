@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 2,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 2
   },
@@ -33,7 +33,8 @@
     "GeeksForGeeks_Rotate_by_90_degree": true,
     "GeeksForGeeks_Matrix_Diagonal_Traversal": true,
     "GeeksForGeeks_Count_Words_in_String": true,
-    "LeetCode_Check_if_the_Sentence_Is_Pangram": true
+    "LeetCode_Check_if_the_Sentence_Is_Pangram": true,
+    "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -47,9 +48,10 @@
     "2026-10-02": 1,
     "2026-10-03": 2,
     "2026-10-05": 4,
-    "2026-10-06": 1
+    "2026-10-06": 2
   },
   "todayProblems": [
-    "Check if the Sentence Is Pangram"
+    "Check if the Sentence Is Pangram",
+    "Convert Sentence to Camel Case"
   ]
 }
