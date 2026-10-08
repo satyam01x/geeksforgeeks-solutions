@@ -1,11 +1,11 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 4,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 8,
     "hard": 0,
     "basic": 2
@@ -36,7 +36,8 @@
     "LeetCode_Check_if_the_Sentence_Is_Pangram": true,
     "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
     "GeeksForGeeks_Most_Frequent_Character": true,
-    "LeetCode_Add_Strings": true
+    "LeetCode_Add_Strings": true,
+    "LeetCode_Defanging_an_IP_Address": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -52,9 +53,10 @@
     "2026-10-05": 4,
     "2026-10-06": 2,
     "2026-10-07": 1,
-    "2026-10-08": 1
+    "2026-10-08": 2
   },
   "todayProblems": [
-    "Add Strings"
+    "Add Strings",
+    "Defanging an IP Address"
   ]
 }

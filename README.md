@@ -25,3 +25,4 @@
 | 23 | [Convert Sentence to Camel Case](./GeeksForGeeks/Medium/Convert%20Sentence%20to%20Camel%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) | Medium | 06 Oct 2026 | 04:35 pm |
 | 24 | [Most Frequent Character](./GeeksForGeeks/Easy/Most%20Frequent%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | Easy | 07 Oct 2026 | 04:22 pm |
 | 25 | [Add Strings](./LeetCode/Easy/Add%20Strings) | [LeetCode](https://leetcode.com/problems/add-strings/) | Easy | 08 Oct 2026 | 03:48 pm |
+| 26 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 08 Oct 2026 | 04:01 pm |
