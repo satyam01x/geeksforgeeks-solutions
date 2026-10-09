@@ -1,14 +1,14 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 5,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 18,
     "medium": 9,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "GeeksForGeeks_Majority_Element_-_More_Than_n/3": true,
@@ -39,7 +39,8 @@
     "LeetCode_Add_Strings": true,
     "LeetCode_Defanging_an_IP_Address": true,
     "LeetCode_Rotate_String": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "GeeksForGeeks_Print_n_to_1_Without_Loop": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -56,9 +57,10 @@
     "2026-10-06": 2,
     "2026-10-07": 1,
     "2026-10-08": 3,
-    "2026-10-09": 1
+    "2026-10-09": 2
   },
   "todayProblems": [
-    "Subarray Sum Equals K"
+    "Subarray Sum Equals K",
+    "Print n to 1 Without Loop"
   ]
 }

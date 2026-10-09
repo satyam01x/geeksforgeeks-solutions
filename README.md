@@ -28,3 +28,4 @@
 | 26 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 08 Oct 2026 | 04:01 pm |
 | 27 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 08 Oct 2026 | 06:19 pm |
 | 28 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 09 Oct 2026 | 03:27 pm |
+| 29 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?page=1&sortBy=newest&query=page1sortBynewest) | Basic | 09 Oct 2026 | 03:54 pm |
