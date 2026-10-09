@@ -30,3 +30,4 @@
 | 28 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 09 Oct 2026 | 03:27 pm |
 | 29 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?page=1&sortBy=newest&query=page1sortBynewest) | Basic | 09 Oct 2026 | 03:54 pm |
 | 30 | [First n Fibonacci using Recursion](./GeeksForGeeks/Basic/First%20n%20Fibonacci%20using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | Basic | 09 Oct 2026 | 06:14 pm |
+| 31 | [Power Using Recursion](./GeeksForGeeks/Basic/Power%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | Basic | 09 Oct 2026 | 10:15 pm |
