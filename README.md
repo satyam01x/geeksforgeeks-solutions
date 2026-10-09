@@ -32,3 +32,4 @@
 | 30 | [First n Fibonacci using Recursion](./GeeksForGeeks/Basic/First%20n%20Fibonacci%20using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | Basic | 09 Oct 2026 | 06:14 pm |
 | 31 | [Power Using Recursion](./GeeksForGeeks/Basic/Power%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | Basic | 09 Oct 2026 | 10:15 pm |
 | 32 | [Recursively Sum n Numbers](./GeeksForGeeks/Easy/Recursively%20Sum%20n%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | Easy | 09 Oct 2026 | 10:22 pm |
+| 33 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 09 Oct 2026 | 10:28 pm |
