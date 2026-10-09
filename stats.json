@@ -1,14 +1,14 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 5,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 19,
     "medium": 9,
     "hard": 0,
-    "basic": 6
+    "basic": 7
   },
   "syncedProblems": {
     "GeeksForGeeks_Majority_Element_-_More_Than_n/3": true,
@@ -44,7 +44,8 @@
     "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
     "GeeksForGeeks_Power_Using_Recursion": true,
     "GeeksForGeeks_Recursively_Sum_n_Numbers": true,
-    "GeeksForGeeks_Factorial": true
+    "GeeksForGeeks_Factorial": true,
+    "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -61,7 +62,7 @@
     "2026-10-06": 2,
     "2026-10-07": 1,
     "2026-10-08": 3,
-    "2026-10-09": 6
+    "2026-10-09": 7
   },
   "todayProblems": [
     "Subarray Sum Equals K",
@@ -69,6 +70,7 @@
     "First n Fibonacci using Recursion",
     "Power Using Recursion",
     "Recursively Sum n Numbers",
-    "Factorial"
+    "Factorial",
+    "Nth Fibonacci Using Recursion"
   ]
 }
