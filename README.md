@@ -27,3 +27,4 @@
 | 25 | [Add Strings](./LeetCode/Easy/Add%20Strings) | [LeetCode](https://leetcode.com/problems/add-strings/) | Easy | 08 Oct 2026 | 03:48 pm |
 | 26 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 08 Oct 2026 | 04:01 pm |
 | 27 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 08 Oct 2026 | 06:19 pm |
+| 28 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 09 Oct 2026 | 03:27 pm |
