@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
-  "currentStreak": 6,
+  "totalSolved": 37,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-10",
+  "lastSyncDate": "2026-10-17",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 9,
     "hard": 0,
     "basic": 7
@@ -46,7 +46,8 @@
     "GeeksForGeeks_Recursively_Sum_n_Numbers": true,
     "GeeksForGeeks_Factorial": true,
     "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true,
-    "GeeksForGeeks_Insertion_Sort": true
+    "GeeksForGeeks_Insertion_Sort": true,
+    "LeetCode_Contains_Duplicate_II": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -64,9 +65,10 @@
     "2026-10-07": 1,
     "2026-10-08": 3,
     "2026-10-09": 7,
-    "2026-10-10": 1
+    "2026-10-10": 1,
+    "2026-10-17": 1
   },
   "todayProblems": [
-    "Insertion Sort"
+    "Contains Duplicate II"
   ]
 }
