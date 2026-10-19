@@ -36,3 +36,4 @@
 | 34 | [Nth Fibonacci Using Recursion](./GeeksForGeeks/Basic/Nth%20Fibonacci%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | Basic | 09 Oct 2026 | 10:41 pm |
 | 35 | [Insertion Sort](./GeeksForGeeks/Easy/Insertion%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-sort/1) | Easy | 10 Oct 2026 | 02:28 pm |
 | 36 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 17 Oct 2026 | 04:58 pm |
+| 37 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 05:39 pm |

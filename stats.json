@@ -1,11 +1,11 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-17",
+  "lastSyncDate": "2026-10-19",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 21,
+    "easy": 22,
     "medium": 9,
     "hard": 0,
     "basic": 7
@@ -47,7 +47,8 @@
     "GeeksForGeeks_Factorial": true,
     "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true,
     "GeeksForGeeks_Insertion_Sort": true,
-    "LeetCode_Contains_Duplicate_II": true
+    "LeetCode_Contains_Duplicate_II": true,
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -66,9 +67,10 @@
     "2026-10-08": 3,
     "2026-10-09": 7,
     "2026-10-10": 1,
-    "2026-10-17": 1
+    "2026-10-17": 1,
+    "2026-10-19": 1
   },
   "todayProblems": [
-    "Contains Duplicate II"
+    "Find Target Indices After Sorting Array"
   ]
 }
