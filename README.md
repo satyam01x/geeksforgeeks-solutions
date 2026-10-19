@@ -37,3 +37,4 @@
 | 35 | [Insertion Sort](./GeeksForGeeks/Easy/Insertion%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-sort/1) | Easy | 10 Oct 2026 | 02:28 pm |
 | 36 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 17 Oct 2026 | 04:58 pm |
 | 37 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 05:39 pm |
+| 38 | [Square Root](./GeeksForGeeks/Easy/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Easy | 19 Oct 2026 | 05:52 pm |
