@@ -1,14 +1,14 @@
 {
-  "totalSolved": 39,
+  "totalSolved": 40,
   "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-10-19",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 23,
     "medium": 9,
     "hard": 0,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "GeeksForGeeks_Majority_Element_-_More_Than_n/3": true,
@@ -49,7 +49,8 @@
     "GeeksForGeeks_Insertion_Sort": true,
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
-    "GeeksForGeeks_Square_Root": true
+    "GeeksForGeeks_Square_Root": true,
+    "GeeksForGeeks_Min_and_Max_in_Array": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -69,10 +70,10 @@
     "2026-10-09": 7,
     "2026-10-10": 1,
     "2026-10-17": 1,
-    "2026-10-19": 2
+    "2026-10-19": 2,
+    "2026-10-21": 1
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array",
-    "Square Root"
+    "Min and Max in Array"
   ]
 }
