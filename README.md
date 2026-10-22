@@ -41,3 +41,4 @@
 | 39 | [Min and Max in Array](./GeeksForGeeks/Basic/Min%20and%20Max%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | Basic | 21 Oct 2026 | 02:48 pm |
 | 40 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 21 Oct 2026 | 02:57 pm |
 | 41 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | 21 Oct 2026 | 05:21 pm |
+| 42 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 22 Oct 2026 | 05:21 pm |
