@@ -42,3 +42,4 @@
 | 40 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 21 Oct 2026 | 02:57 pm |
 | 41 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | 21 Oct 2026 | 05:21 pm |
 | 42 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 22 Oct 2026 | 05:21 pm |
+| 43 | [Missing in Second Array](./GeeksForGeeks/Easy/Missing%20in%20Second%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1) | Easy | 23 Oct 2026 | 06:30 pm |
