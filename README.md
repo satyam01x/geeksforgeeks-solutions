@@ -44,3 +44,4 @@
 | 42 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 22 Oct 2026 | 05:21 pm |
 | 43 | [Missing in Second Array](./GeeksForGeeks/Easy/Missing%20in%20Second%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1) | Easy | 23 Oct 2026 | 06:30 pm |
 | 44 | [Power of Three](./LeetCode/Easy/Power%20of%20Three) | [LeetCode](https://leetcode.com/problems/power-of-three/) | Easy | 29 Oct 2026 | 05:55 pm |
+| 45 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 31 Oct 2026 | 05:25 pm |
