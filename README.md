@@ -46,3 +46,4 @@
 | 44 | [Power of Three](./LeetCode/Easy/Power%20of%20Three) | [LeetCode](https://leetcode.com/problems/power-of-three/) | Easy | 29 Oct 2026 | 05:55 pm |
 | 45 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 31 Oct 2026 | 05:25 pm |
 | 46 | [Find the Highest Altitude](./LeetCode/Easy/Find%20the%20Highest%20Altitude) | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 01 Nov 2026 | 09:04 pm |
+| 47 | [Perfect Number](./LeetCode/Easy/Perfect%20Number) | [LeetCode](https://leetcode.com/problems/perfect-number/) | Easy | 02 Nov 2026 | 02:20 pm |
