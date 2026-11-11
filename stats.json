@@ -1,11 +1,11 @@
 {
-  "totalSolved": 48,
-  "currentStreak": 3,
+  "totalSolved": 49,
+  "currentStreak": 1,
   "maxStreak": 10,
-  "lastSyncDate": "2026-11-02",
+  "lastSyncDate": "2026-11-11",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 9,
     "hard": 0,
     "basic": 8
@@ -58,7 +58,8 @@
     "LeetCode_Power_of_Three": true,
     "LeetCode_Happy_Number": true,
     "LeetCode_Find_the_Highest_Altitude": true,
-    "LeetCode_Perfect_Number": true
+    "LeetCode_Perfect_Number": true,
+    "LeetCode_Guess_Number_Higher_or_Lower": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -85,9 +86,10 @@
     "2026-10-29": 1,
     "2026-10-31": 1,
     "2026-11-01": 1,
-    "2026-11-02": 1
+    "2026-11-02": 1,
+    "2026-11-11": 1
   },
   "todayProblems": [
-    "Perfect Number"
+    "Guess Number Higher or Lower"
   ]
 }

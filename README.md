@@ -47,3 +47,4 @@
 | 45 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 31 Oct 2026 | 05:25 pm |
 | 46 | [Find the Highest Altitude](./LeetCode/Easy/Find%20the%20Highest%20Altitude) | [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | 01 Nov 2026 | 09:04 pm |
 | 47 | [Perfect Number](./LeetCode/Easy/Perfect%20Number) | [LeetCode](https://leetcode.com/problems/perfect-number/) | Easy | 02 Nov 2026 | 02:20 pm |
+| 48 | [Guess Number Higher or Lower](./LeetCode/Easy/Guess%20Number%20Higher%20or%20Lower) | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 11 Nov 2026 | 04:57 pm |
